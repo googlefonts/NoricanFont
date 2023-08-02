@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="r.fina" format="1">
   <advance width="769"/>
   <outline>
@@ -62,32 +62,36 @@
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>442</integer>
-	    <key>width</key>	    <integer>125</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>658</integer>
-	    <key>width</key>	    <integer>182</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>49</integer>
-	    <key>width</key>
-	    <integer>191</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>630</integer>
-	    <key>width</key>
-	    <integer>193</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>442</integer>
+            <key>width</key>
+            <integer>125</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>658</integer>
+            <key>width</key>
+            <integer>182</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>49</integer>
+            <key>width</key>
+            <integer>191</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>630</integer>
+            <key>width</key>
+            <integer>193</integer>
+          </dict>
+        </array>
       </dict>
     </dict>
   </lib>

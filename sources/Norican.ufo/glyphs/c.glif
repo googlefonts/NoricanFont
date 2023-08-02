@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="c" format="1">
   <advance width="696"/>
   <unicode hex="0063"/>
@@ -38,30 +38,36 @@
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>-29</integer>
-	    <key>width</key>	    <integer>170</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>330</integer>
-	    <key>width</key>	    <integer>112</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>743</integer>
-	    <key>width</key>	    <integer>97</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>-4</integer>
-	    <key>width</key>
-	    <integer>219</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-29</integer>
+            <key>width</key>
+            <integer>170</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>330</integer>
+            <key>width</key>
+            <integer>112</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>743</integer>
+            <key>width</key>
+            <integer>97</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-4</integer>
+            <key>width</key>
+            <integer>219</integer>
+          </dict>
+        </array>
       </dict>
     </dict>
   </lib>

@@ -1,9 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ucircumflex" format="1">
   <advance width="1595"/>
   <unicode hex="00DB"/>
   <outline>
-    <component base="U"/>
-    <component base="circumflex" xOffset="-6" yOffset="713"/>
+    <component base="U" identifier="F1B5EBD5"/>
+    <component base="circumflex" xOffset="-6" yOffset="713" identifier="D8F48BBC"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-08-02 13:43:01 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>D8F48BBC</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>F1B5EBD5</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

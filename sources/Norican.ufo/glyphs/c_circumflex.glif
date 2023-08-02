@@ -1,9 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Ccircumflex" format="1">
   <advance width="1268"/>
   <unicode hex="0108"/>
   <outline>
-    <component base="C"/>
-    <component base="circumflex" xOffset="-98" yOffset="713"/>
+    <component base="C" identifier="91255BA6"/>
+    <component base="circumflex" xOffset="-98" yOffset="713" identifier="3CA5E909"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-08-02 13:43:01 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>3CA5E909</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>91255BA6</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

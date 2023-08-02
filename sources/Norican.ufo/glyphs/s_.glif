@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="S" format="1">
   <advance width="1069"/>
   <unicode hex="0053"/>
   <outline>
     <contour>
-      <point x="805" y="1518" type="move" smooth="yes"/>
+      <point x="805" y="1518" type="move"/>
     </contour>
     <contour>
       <point x="387" y="1126" type="curve" smooth="yes"/>

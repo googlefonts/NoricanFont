@@ -1,9 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="odieresis" format="1">
   <advance width="867"/>
   <unicode hex="00F6"/>
   <outline>
-    <component base="dieresis" xOffset="-78" yOffset="-16"/>
-    <component base="o"/>
+    <component base="dieresis" xOffset="-78" yOffset="-16" identifier="5C2A93B6"/>
+    <component base="o" identifier="8CB12FA4"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-08-02 13:43:01 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>5C2A93B6</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>8CB12FA4</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ffi" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_f_i" format="1">
   <advance width="1361"/>
-  <unicode hex="FB03"/>
   <outline>
     <contour>
       <point x="1113" y="702" type="curve"/>
@@ -128,4 +127,10 @@
       <point x="1262" y="1073"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-08-02 14:05:19 +0000</string>
+    </dict>
+  </lib>
 </glyph>

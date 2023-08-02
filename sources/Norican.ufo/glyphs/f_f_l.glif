@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ffl" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="f_f_l" format="1">
   <advance width="1548"/>
-  <unicode hex="FB04"/>
   <outline>
     <contour>
       <point x="1146" y="1252" type="curve" smooth="yes"/>
@@ -132,65 +131,75 @@
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>456</integer>
-	    <key>width</key>	    <integer>145</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>464</integer>
-	    <key>width</key>	    <integer>78</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1279</integer>
-	    <key>width</key>	    <integer>113</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1358</integer>
-	    <key>width</key>	    <integer>108</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>-74</integer>
-	    <key>width</key>
-	    <integer>198</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>456</integer>
-	    <key>width</key>
-	    <integer>198</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>616</integer>
-	    <key>width</key>
-	    <integer>127</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>1069</integer>
-	    <key>width</key>
-	    <integer>177</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>1146</integer>
-	    <key>width</key>
-	    <integer>127</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>1700</integer>
-	    <key>width</key>
-	    <integer>114</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>456</integer>
+            <key>width</key>
+            <integer>145</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>464</integer>
+            <key>width</key>
+            <integer>78</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1279</integer>
+            <key>width</key>
+            <integer>113</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1358</integer>
+            <key>width</key>
+            <integer>108</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>-74</integer>
+            <key>width</key>
+            <integer>198</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>456</integer>
+            <key>width</key>
+            <integer>198</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>616</integer>
+            <key>width</key>
+            <integer>127</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1069</integer>
+            <key>width</key>
+            <integer>177</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1146</integer>
+            <key>width</key>
+            <integer>127</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1700</integer>
+            <key>width</key>
+            <integer>114</integer>
+          </dict>
+        </array>
       </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-08-02 14:05:23 +0000</string>
     </dict>
   </lib>
 </glyph>

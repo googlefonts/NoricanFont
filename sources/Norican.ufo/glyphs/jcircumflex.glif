@@ -1,9 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="jcircumflex" format="1">
   <advance width="442"/>
   <unicode hex="0135"/>
   <outline>
-    <component base="circumflex" xOffset="-739" yOffset="16"/>
-    <component base="dotlessj"/>
+    <component base="circumflex" xOffset="-739" yOffset="16" identifier="44DA4535"/>
+    <component base="dotlessj" identifier="A05CC463"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-08-02 13:43:01 +0000</string>
+      <key>public.objectLibs</key>
+      <dict>
+        <key>44DA4535</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+        <key>A05CC463</key>
+        <dict>
+          <key>com.schriftgestaltung.alignment</key>
+          <integer>-1</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
 </glyph>

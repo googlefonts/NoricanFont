@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="ll" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l_l" format="1">
   <advance width="1098"/>
   <outline>
     <contour>
@@ -83,51 +83,57 @@
     <dict>
       <key>com.fontlab.hintData</key>
       <dict>
-	<key>hhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>	    <integer>1317</integer>
-	    <key>width</key>	    <integer>115</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>	    <integer>1417</integer>
-	    <key>width</key>	    <integer>115</integer>
-	  </dict>
-	</array>
-	<key>vhints</key>
-	<array>
-	  <dict>
-	    <key>position</key>
-	    <integer>80</integer>
-	    <key>width</key>
-	    <integer>207</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>635</integer>
-	    <key>width</key>
-	    <integer>207</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>635</integer>
-	    <key>width</key>
-	    <integer>29</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>711</integer>
-	    <key>width</key>
-	    <integer>113</integer>
-	  </dict>
-	  <dict>
-	    <key>position</key>
-	    <integer>1256</integer>
-	    <key>width</key>
-	    <integer>113</integer>
-	  </dict>
-	</array>
+        <key>hhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>1317</integer>
+            <key>width</key>
+            <integer>115</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1417</integer>
+            <key>width</key>
+            <integer>115</integer>
+          </dict>
+        </array>
+        <key>vhints</key>
+        <array>
+          <dict>
+            <key>position</key>
+            <integer>80</integer>
+            <key>width</key>
+            <integer>207</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>635</integer>
+            <key>width</key>
+            <integer>207</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>635</integer>
+            <key>width</key>
+            <integer>29</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>711</integer>
+            <key>width</key>
+            <integer>113</integer>
+          </dict>
+          <dict>
+            <key>position</key>
+            <integer>1256</integer>
+            <key>width</key>
+            <integer>113</integer>
+          </dict>
+        </array>
       </dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-08-02 14:05:52 +0000</string>
     </dict>
   </lib>
 </glyph>

@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="Dr" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="D_r" format="1">
   <advance width="2267"/>
   <outline>
     <contour>
@@ -118,4 +118,10 @@
       <point x="1425" y="1094"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2023-08-02 14:05:38 +0000</string>
+    </dict>
+  </lib>
 </glyph>

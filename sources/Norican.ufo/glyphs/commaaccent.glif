@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="commaaccent" format="1">
   <advance width="709"/>
   <unicode hex="F6C3"/>
   <outline>
     <contour>
-      <point x="365" y="0" type="move" smooth="yes"/>
+      <point x="365" y="0" type="move"/>
     </contour>
     <contour>
       <point x="360" y="-90" type="curve" smooth="yes"/>
